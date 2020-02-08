@@ -1,0 +1,14 @@
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-1\TestTask Template\CSharpTest\bin\Release\CSharpTest.exe
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-1\TestTask Template\CSharpTest\bin\Release\CSharpTest.pdb
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-1\TestTask Template\CSharpTest\obj\Release\CSharpTest.exe
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-1\TestTask Template\CSharpTest\obj\Release\CSharpTest.pdb
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-sln\TestTask Template\CSharpTest\obj\Release\CSharpTest.exe
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-sln\TestTask Template\CSharpTest\obj\Release\CSharpTest.pdb
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-sln\TestTask Template\CSharpTest\bin\Release\CSharpTest.exe
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-sln\TestTask Template\CSharpTest\bin\Release\CSharpTest.pdb
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-sln\TestTask Template\CSharpTest\obj\Release\CSharpTest.csprojResolveAssemblyReference.cache
+D:\РЕЗЮМЕ\tasks\TestTask-Template.Dynamics-Education-sln\TestTask Template\CSharpTest\obj\Release\CSharpTest.exe
+D:\РЕЗЮМЕ\tasks\TestTask-Template.Dynamics-Education-sln\TestTask Template\CSharpTest\obj\Release\CSharpTest.pdb
+D:\РЕЗЮМЕ\tasks\TestTask-Template.Dynamics-Education-sln\TestTask Template\CSharpTest\bin\Release\CSharpTest.exe
+D:\РЕЗЮМЕ\tasks\TestTask-Template.Dynamics-Education-sln\TestTask Template\CSharpTest\bin\Release\CSharpTest.pdb
+D:\РЕЗЮМЕ\tasks\TestTask-Template.Dynamics-Education-sln\TestTask Template\CSharpTest\obj\Release\CSharpTest.csprojResolveAssemblyReference.cache

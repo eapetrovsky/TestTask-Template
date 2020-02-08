@@ -1,0 +1,5 @@
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-1\TestTask Template\CSharpTest\bin\Debug\CSharpTest.pdb
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-1\TestTask Template\CSharpTest\obj\Debug\CSharpTest.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-1\TestTask Template\CSharpTest\obj\Debug\CSharpTest.pdb
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-1\TestTask Template\CSharpTest\bin\Debug\CSharpTest.exe
+C:\Users\Evgeny\Downloads\TestTask-Template.Dynamics-Education-1\TestTask Template\CSharpTest\obj\Debug\CSharpTest.exe
