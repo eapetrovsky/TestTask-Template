@@ -12,7 +12,7 @@ namespace CSharpTest
         { 
             if (weekEnds == null)
             {
-                return startDate.AddDays(-1);
+                return startDate.AddDays(dayCount-1);
             } 
 
             int day = 1;
